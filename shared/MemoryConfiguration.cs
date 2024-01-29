@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 namespace CopilotChat.Shared;
-
+// Testing
 /// <summary>
 /// Configuration constants for kernel memory.
 /// </summary>
